@@ -33,6 +33,12 @@ Gli account condivisi sono solamente quelli degli Admin.
 Alla data corrente gli Admin sono due. 
 Il primo è l'amministratore generale dell'applicazione ed il secondo ha accettato consensulamente di condividere per autenticazione il suo account direttamente nel codice.
 
+## Bambini
+
+L'applicazione consente la visione ad un pubblico minorenne (< 13 anni).
+L'applicazione in ogni caso non è scaricabile da minori al di sotto della soglia suddetta previa consultazione/permesso di un genitore o tutore.
+L'applicazione ha solo scopo divulgativo e informativo sugli eventi della propria palestra sportiva.
+
 ## Contatti
 
 Per qualsiasi domanda: **ing.tammaropasquale@gmail.com**
